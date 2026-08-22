@@ -1,0 +1,29 @@
+# Compiled C++ files
+*.exe
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Other IDE files
+.idea/
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+Thumbs.db
