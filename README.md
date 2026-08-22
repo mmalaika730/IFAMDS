@@ -1,6 +1,6 @@
-# IFAMDS — Intelligent Forest Advisory & Multi-Structure Decision System
+# IFAMDS | Intelligent Forest Advisory & Multi-Structure Decision System
 
-A comprehensive C++ console-based forest management simulation system developed for the Data Structures course at FAST National University, Islamabad.
+A comprehensive C++ console-based forest management simulation system.
 
 IFAMDS models a real-world forest management environment consisting of 10 forest zones arranged in a 5×5 grid. The system integrates multiple manually implemented data structures to process environmental data, detect fire risks, manage resources, coordinate emergency responses, and support intelligent decision-making.
 
